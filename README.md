@@ -7,7 +7,7 @@
 * _concept art, game development and kuromi enthusiast!🩶_
 
 
-## tools i work with:
+## tools i work with: 📋
 ![Java SE](https://img.shields.io/badge/Java%20SE-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Java EE](https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -41,7 +41,7 @@
 
 
 
-## contact me!
+## contact me! 🧷
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludovica-genovese)
 
 <!--
