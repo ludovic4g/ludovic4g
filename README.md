@@ -1,5 +1,13 @@
-## Hi there 👋
+## welcome to lud's profile! 🍬
 
+    - m.sc in data science📊 and artificial intelligence🤖 @ Università degli Studi di Salerno!
+    - currently focusing in vr/ar application development for safety training and stress evaluation in industrial environments!🔩
+    - currently studying artificial intelligence, robot programming and geographical information systems!📋
+    - concept art, game development and kuromi enthusiast!🩶
+
+
+## tools i work with:
+  ![nome](link)
 <!--
 **ludovic4g/ludovic4g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
