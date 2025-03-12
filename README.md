@@ -3,7 +3,7 @@
 
 * _m.sc in data science📊 and artificial intelligence🤖 @ Università degli Studi di Salerno!_
 * _currently in vr/ar application development for safety training and stress evaluation in industrial environments!🔩_
-* _studying in this semester: software engineer for artificial intelligence, natural language processing and fundamentals of artificial vision and biometry!📋_
+* _studying in this semester: software engineering for artificial intelligence, natural language processing and fundamentals of artificial vision and biometry!📋_
 * _concept art, game development and kuromi enthusiast!🩶_
 
 
