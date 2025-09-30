@@ -1,10 +1,9 @@
 ## welcome to lud's profile! 🍬
 
 
-* _m.sc in data science📊 and artificial intelligence🤖 @ Università degli Studi di Salerno!_
-* _currently in vr/ar application development for safety training and stress evaluation in industrial environments!🔩_
-* _studying in this semester: software engineering for artificial intelligence, natural language processing and fundamentals of artificial vision and biometry!📋_
-* _concept art, game development and kuromi enthusiast!🩶_
+* _master's degree in data science📊 and artificial intelligence🤖 @ Università degli Studi di Salerno!_
+* _key interests: computer vision👁️‍🗨️, biometrics👁 and game tech🎮_
+* _concept art, motion graphics and kuromi enthusiast!🩶_
 
 
 ## tools i work with: 📋
